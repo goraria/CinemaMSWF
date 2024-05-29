@@ -18,5 +18,7 @@ namespace Project {
         public static DateTime now = DateTime.Today;
         public static string dateString = now.ToString("yyyy-MM-dd");
         public static string Japtor = "Japtor";
+        public static string Locst = "Locst";
+        public static string MeiFang = "MeiFang";
     }
 }
